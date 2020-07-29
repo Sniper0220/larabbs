@@ -3,7 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="b161b0dc-a89f-44ed-8b5c-684c9543ddef" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webpack.mix.js" beforeDir="false" afterPath="$PROJECT_DIR$/webpack.mix.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/sass/app.scss" beforeDir="false" afterPath="$PROJECT_DIR$/resources/sass/app.scss" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -22,6 +23,7 @@
   <component name="ProjectId" id="1fLcDsuQT1gj0Wq4OahSlZlbKn4" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -51,8 +53,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1596000696826</updated>
-      <workItem from="1596000697876" duration="4842000" />
+      <workItem from="1596000697876" duration="5549000" />
     </task>
+    <task id="LOCAL-00001" summary="静态文件浏览器缓存问题">
+      <created>1596005591551</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1596005591551</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -73,5 +83,7 @@
     <ignored-roots>
       <path value="$PROJECT_DIR$/laravel" />
     </ignored-roots>
+    <MESSAGE value="静态文件浏览器缓存问题" />
+    <option name="LAST_COMMIT_MESSAGE" value="静态文件浏览器缓存问题" />
   </component>
 </project>
