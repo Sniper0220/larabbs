@@ -9,7 +9,7 @@ use Illuminate\Notifications\Notifiable;
 
 class User extends Authenticatable implements MustVerifyEmailContract
 {
-    use Notifiable,MustVerifyEmailTrait;
+    use Notifiable, MustVerifyEmailTrait;
 
     /**
      * The attributes that are mass assignable.
@@ -17,7 +17,7 @@ class User extends Authenticatable implements MustVerifyEmailContract
      * @var array
      */
     protected $fillable = [
-        'name', 'email', 'password', 'introduction',
+        'name', 'email', 'password', 'introduction', 'avatar',
     ];
 
     /**
